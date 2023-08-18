@@ -1,0 +1,64 @@
+{
+    "Developer Tools": [
+        "Visual Studio Code",
+        "Pycharm",
+        "Sublime Text 4",
+        "Git",
+        "IntelliJ IDEA Community Edition",
+        "Github Desktop",
+        "Atom",
+        "Visual Studio",
+        "Android Studio",
+        "Notepad++",
+        "Code::Blocks"
+    ],
+    "Browsers": [
+        "Google Chrome",
+        "Microsoft Edge",
+        "Mozilla Firefox",
+        "Opera GX Stable",
+        "Opera Stable",
+        "Vivaldi",
+        "Brave",
+        "Chromium"
+    ],
+    "Gaming": [
+        "Steam",
+        "Epic Games Launcher",
+        "Razer Cortex",
+        "Radeon Software",
+        "GeForce Experience",
+        "Ubisoft Connect",
+        "Origin"
+    ],
+    "Media": [
+        "VLC media player",
+        "Audacity",
+        "FL Studio",
+        "iTunes",
+        "Spotify",
+        "Windows Media Player",
+        "Winamp",
+        "GOM Player"
+    ],
+    "Graphic Design": [
+        "CorelDRAW Graphics Suite",
+        "GIMP",
+        "Inkscape",
+        "Canva",
+        "Blender",
+        "Figma",
+        "paint.net"
+    ],
+    "Office": [
+        "LibreOffice",
+        "WPS Office",
+        "OpenOffice",
+        "Adobe Acrobat Reader DC",
+        "Evernote"
+    ],
+    "File Archivers": [
+        "7-Zip",
+        "WinRAR"
+    ]
+}
