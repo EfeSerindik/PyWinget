@@ -10,5 +10,4 @@ Open the application located in the same folder as the JSON file. Once opened, n
 - Enable installation with winget.
 
 ## Screenshot In App
-![image](https://github.com/EfeSerindik/AppInstallerWithWinget/assets/95052112/3ef288c7-40e7-483d-8950-f00ea98fd70d)
-
+![Ekran görüntüsü 2023-08-28 234922](https://github.com/EfeSerindik/AppInstallerWithWinget/assets/95052112/2bf86777-a317-4c6d-bc48-44403d21faad)
