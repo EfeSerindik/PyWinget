@@ -1,6 +1,6 @@
 import os
 import subprocess
-script_name = "main.py"
+script_name = "PyWinget"
 exe_name = os.path.splitext(script_name)[0] + ".exe"
 output_dir = "build"
 os.makedirs(output_dir, exist_ok=True)

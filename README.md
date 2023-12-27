@@ -1,43 +1,13 @@
-# PyWinget
+# AppInstallerWithWinget
 
-PyWinget is a simple command-line application for installing Windows applications using Winget. It provides a text-based interface for browsing and installing applications from different categories.
+This app enables you to conveniently acquire a wide array of essential applications. It operates through Python and utilizes the Windows package manager, Winget, to seamlessly facilitate the installation of software.
 
 ## Usage
+Open the application located in the same folder as the JSON file. Once opened, navigate through the applications using the right and left arrow keys on the command prompt window. Use the up and down arrow keys to move between categories. To select your desired application, simply press the enter key.
 
-1. **Clone the repository:**
+## Features
+- Download applications offered in multiple categories from a single location.
+- Enable installation with winget.
 
-   ```bash
-   > git clone https://github.com/EfeSerindik/PyWinget.git
-
-   > cd PyWinget
-
-1. Install requirements:
-
-   ```bash
-   pip install -r requirements.txt
-
-2. Run the application:
-
-   ```bash
-   python main.py
-
-3. Navigate and Install:
-
-Use the arrow keys to navigate between categories and applications.
-Press Enter to install the selected application.
-Press Ctrl+F to search for a specific application.
-Press Esc to exit the search.
-Quit the application:
-
-## Requirements
-Python 3.x
-Winget (Windows Package Manager)
-
-## Notes
-Ensure that Python is installed on your system.
-Verify that Winget is available and accessible from the command line.
-
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-
+## Screenshot In App
+![Ekran görüntüsü 2023-08-28 234922](https://github.com/EfeSerindik/AppInstallerWithWinget/assets/95052112/2bf86777-a317-4c6d-bc48-44403d21faad)
