@@ -7,7 +7,7 @@ PyWinget is a simple command-line application designed to facilitate the install
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/PyWinget.git
+   git clone https://github.com/EfeSerindik/PyWinget.git
    cd PyWinget
 
 2. **Install requirements:**
