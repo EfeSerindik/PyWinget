@@ -21,11 +21,11 @@ app_data = [
         {"id": "Google.Chrome", "name": "Google Chrome"},
         {"id": "Microsoft.Edge", "name": "Microsoft Edge"},
         {"id": "Mozilla.Firefox", "name": "Mozilla Firefox"},
+        {"id": "Zen-Team.Zen-Browser", "name": "Zen Browser"}
         {"id": "Opera.OperaGX", "name": "Opera GX"},
         {"id": "Opera.Opera", "name": "Opera"},
         {"id": "VivaldiTechnologies.Vivaldi", "name": "Vivaldi"},
         {"id": "Brave.Brave", "name": "Brave"},
-        {"id": "Huawei.HuaweiBrowser", "name": "Huawei Browser"}
     ]},
     {"category": "Gaming", "apps": [
         {"id": "Valve.Steam", "name": "Steam"},
